@@ -1,0 +1,11 @@
+
+.btn{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10 px;
+    padding-bottom: 10 px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
